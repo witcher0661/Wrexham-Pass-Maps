@@ -1,0 +1,49 @@
+﻿x,y,endX,endY,type ,outcome
+32.4,36.9,37.2,75.5,pass,p_successful
+85.2,33.7,109.9,40.9,pass,p_successful
+96.0,11.2,105.6,0.0,pass,p_unsuccessful
+92.4,13.6,94.8,5.6,pass,p_unsuccessful
+91.2,13.6,92.4,5.6,pass,p_successful
+51.6,35.3,50.4,49.7,pass,p_successful
+86.4,38.5,102.0,70.6,pass,p_successful
+87.6,57.7,85.2,66.5,pass,p_successful
+115.2,75.4,110.4,68.8,pass,p_unsuccessful
+61.2,40.1,30.0,57.7,pass,p_successful
+98.4,22.4,106.8,71.4,pass,p_successful
+93.6,56.1,108.0,74.6,pass,p_successful
+74.4,30.5,91.2,30.5,pass,p_successful
+45.6,30.0,,,duel,d_unsuccessful
+86.4,65.0,,,duel,d_successful
+104.4,53.3,,,duel,d_successful
+55.2,35.8,,,duel,d_unsuccessful
+93.6,77.5,,,duel,d_unsuccessful
+79.2,7.5,,,duel,d_unsuccessful
+79.2,14.2,,,duel,d_successful
+99.6,17.5,,,duel,d_unsuccessful
+97.2,28.3,,,duel,d_unsuccessful
+100.8,20.8,,,duel,d_unsuccessful
+106.8,46.7,,,duel,d_unsuccessful
+37.2,57.5,,,duel,d_successful
+44.4,64.2,,,duel,d_successful
+87.6,63.3,,,duel,d_successful
+105.6,49.2,,,duel,d_unsuccessful
+92.4,6.7,,,duel,d_unsuccessful
+115.2,70.0,,,duel,d_unsuccessful
+26.4,50.8,,,duel,d_successful
+99.6,71.7,,,duel,d_unsuccessful
+52.8,61.7,,,duel,d_unsuccessful
+106.8,20.0,,,duel,d_unsuccessful
+82.8,30.0,,,duel,d_unsuccessful
+37.2,48.3,,,duel,d_unsuccessful
+75.6,45.0,,,duel,d_successful
+90,50.0,,,duel,d_successful
+93.6,68.3,,,duel,d_unsuccessful
+91.2,33.3,,,duel,d_successful
+120,79.2,,,duel,d_unsuccessful
+104.4,53.3,,,aerial duel,a_successful
+55.2,35.8,,,aerial duel,a_unsuccessful
+105.6,49.2,,,aerial duel,a_unsuccessful
+82.8,30.0,,,aerial duel,a_unsuccessful
+48,63.3,,,dribble,dr_successful
+61.2,78.3,,,interception,i_successful
+92.4,27.5,,,interception,i_successful

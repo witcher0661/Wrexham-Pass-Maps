@@ -1,0 +1,49 @@
+﻿x,y,endX,endY,type ,outcome
+113.4,128.34,130.2,262.62,pass,successful
+298.2,117.18,384.6,142.29,pass,successful
+336,39.06,369.6,0,pass,unsuccessful
+323.4,47.43,331.8,19.53,pass,unsuccessful
+319.2,47.43,323.4,19.53,pass,successful
+180.6,122.76,176.4,172.98,pass,successful
+302.4,133.92,357,245.52,pass,successful
+306.6,200.88,298.2,231.57,pass,successful
+403.2,262.26,386.4,239.4,pass,unsuccessful
+214.2,139.5,105,200.88,pass,successful
+344.4,78.12,373.8,248.31,pass,successful
+327.6,195.3,378,259.47,pass,successful
+260.4,106.02,319.2,106.02,pass,successful
+38,36,,,duel,unsuccessful
+72,78,,,duel,successful
+87,64,,,duel,successful
+46,43,,,duel,unsuccessful
+78,93,,,duel,unsuccessful
+66,9,,,duel,unsuccessful
+66,17,,,duel,successful
+83,21,,,duel,unsuccessful
+81,34,,,duel,unsuccessful
+84,25,,,duel,unsuccessful
+89,56,,,duel,unsuccessful
+31,69,,,duel,successful
+37,77,,,duel,successful
+73,76,,,duel,successful
+88,59,,,duel,unsuccessful
+77,8,,,duel,unsuccessful
+96,84,,,duel,unsuccessful
+22,61,,,duel,successful
+83,86,,,duel,unsuccessful
+44,74,,,duel,unsuccessful
+89,24,,,duel,unsuccessful
+69,36,,,duel,unsuccessful
+31,58,,,duel,unsuccessful
+63,54,,,duel,successful
+75,60,,,duel,successful
+78,82,,,duel,unsuccessful
+76,40,,,duel,successful
+100,95,,,duel,unsuccessful
+87,64,,,aerial duel,successful
+46,43,,,aerial duel,unsuccessful
+88,59,,,aerial duel,unsuccessful
+69,36,,,aerial duel,unsuccessful
+40,76,,,dribble,successful
+51,94,,,interception,successful
+77,33,,,interception,successful
